@@ -1,0 +1,26 @@
+{
+  "name": "clutch-tests",
+  "version": "1.0.0",
+  "description": "Clutch tests.",
+  "homepage": "https://github.com/amir-arabi/clutch-tests#readme",
+  "bugs": {
+    "url": "https://github.com/amir-arabi/clutch-tests/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amir-arabi/clutch-tests.git"
+  },
+  "license": "ISC",
+  "author": "Amir Arabi",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.26.0",
+    "eslint": "^9.26.0",
+    "globals": "^16.1.0",
+    "jest": "^29.7.0"
+  }
+}
